@@ -1,0 +1,9 @@
+# Archivos de sistema comunes
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# Archivos de respaldo y temporales de texto
+*~
+*.swp
+*.swo
+*.bak
